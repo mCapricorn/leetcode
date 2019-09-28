@@ -6,8 +6,6 @@ using namespace std;
 class problems718
 {
 public:
-	static int findLength(vector<int>& A, vector<int>& B) {
-		// 
-	}
+	virtual int findLength(vector<int>& A, vector<int>& B);
 };
 

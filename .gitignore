@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/.vscode/leetcode.out.dSYM
+.DS_Store
+.vscode/leetcode.out
